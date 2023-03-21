@@ -1,0 +1,18 @@
+.input{
+  border:none;
+  min-width: 1px;
+  max-width: 720px;
+  // max-width: 50%;
+  padding:0;
+  height: 40px;
+  font-size: 20px;
+}
+.input :focus{
+  outline:none;
+}
+#hide{
+  position:absolute;
+  opacity: 0;
+  z-index: -100;
+  white-space: pre;
+}

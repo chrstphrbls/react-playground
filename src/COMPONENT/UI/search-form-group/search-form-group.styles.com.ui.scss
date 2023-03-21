@@ -1,0 +1,34 @@
+
+.grid{ 
+  // display: relative;
+  background-color:grey;
+}
+Grid{
+  background-color: grey;
+}
+.input{
+  border:none;
+  background-color: white;
+  margin-left: 2px;
+  // position: relative;
+  left: 0;
+}
+.suggestion{
+  position: relative;
+  top: -2px;
+}
+.clear-icon{
+  position: relative;
+  top: 1px;
+  z-index:5;
+}
+.suggestion{
+  padding-top: 6px;
+  margin-left: 6px;
+  color: yellow;
+  font-style: italic;
+}
+.basic-button{
+  position: absolute;
+  right: 0;
+}

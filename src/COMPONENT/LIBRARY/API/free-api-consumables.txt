@@ -1,0 +1,20 @@
+https://docs.mapbox.com/api
+` offers developers comprehensive tools and accurate location data`
+
+https://api.nasa.gov/
+`updated database information about space`
+
+https://favqs.com/api/
+`collection of insightful qoutes`
+
+https://ww.edamam.com/
+`access to a database of food items and recipes with health analysis`
+
+https://fakestoreapi.com/
+`can be used whenever there is a need for pseudo-real data for e-commerce website`
+
+https:pokeapi.co/
+`all the pokemon data you ever need`
+
+https://www.igdb.com/api
+`popular video game database with a public api to build excellent videogame-oriented websites`
